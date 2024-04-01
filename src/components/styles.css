@@ -1,0 +1,48 @@
+.to-do-input{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.input{
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    padding: 0 20px;
+}
+
+.addButton{
+    width: 70px;
+    height: 40px;
+    margin-left: 20px;
+    cursor: pointer;
+    background-color: hsl(47, 88%, 63%);
+    border: 0;
+    border-radius: 20px;
+}
+
+.todolist {
+    font-family: "Montserrat", sans-serif;
+    font-size: 25px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.todolist ul li {
+    padding-bottom: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+}
+
+.checkbox{
+    margin-right: 10px;
+}
+
+.todoelement{
+    margin-right: 70px;
+}
