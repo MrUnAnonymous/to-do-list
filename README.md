@@ -2,6 +2,10 @@
 
 This is a simple ToDo list web application built using React, Redux, and Redux Thunk.
 
+## Screenshot
+
+![Final Website](image.png)
+
 ## Features
 
 - Add ToDo items
@@ -16,11 +20,13 @@ This is a simple ToDo list web application built using React, Redux, and Redux T
 
 1. Install dependencies:
 
+    ```bash
     cd todo-list-app
     npm install
 
 2. Start the development server:
 
+    ```bash
     npm start
 
 3. Open your web browser and go to `http://localhost:3000` to view the app.
